@@ -24,13 +24,19 @@ Software Layers: The network, transport, session, presentation, and application 
 
 
 ### How can the OSI model be used in troubleshooting?
-The OSI model can be used to troubleshooting 
+The OSI model can be used to troubleshooting by determining whether or not the problem is coming from the source of where the internet is or if it's from your physical hardware.
 ### What Is Wireshark and How Is It Used?
-
+ It is an open-source software that allows you to capture and analyze the data traveling back and forth on a network in real-time. 
 Feel free to stop at “How to Use Wireshark”
 ### 1. What is Wireshark?
+Wireshark is a widely used network protocol analyzer.
 ### 2. What is a packet?
+A packet is a unit of data in computer networking and telecommunications.
 ### 3. What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?
+1. Reads packets
+2. Edit Packets
+3. Custom Packets
+Helps troubleshooting 
 Videos
 Understanding the OSI Model
 Data Communication
