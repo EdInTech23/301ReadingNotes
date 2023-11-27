@@ -41,3 +41,5 @@ Videos
 Understanding the OSI Model
 Data Communication
 Packet, routers, and reliability
+
+Sources Chatgpt and Google
