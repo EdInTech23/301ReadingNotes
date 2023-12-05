@@ -22,4 +22,4 @@ Microservices Architecture: Managing traffic between microservices
 NGINX handles performance-draining tasks like SSL encryption and content rendering before they reach the main web server, acting as a buffer and speeding things up.
 
 ### Describe, as if to a non-technical friend how to actually pronounce “NGINX”, and why an org might chooose to use it.
-Imagine engine and X as best friends, hanging out so much they kinda became one word. That's "NginX"! It's like a supercharged engine for websites, making them faster and smoother.
+Imagine engine crashes into X and become one word. That's "NginX"! It's like a supercharged engine for websites, making them faster and smoother.
