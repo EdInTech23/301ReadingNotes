@@ -18,6 +18,16 @@ Authentication servers
 Internal applications
 Management tools
 ### What are the trade-offs of using a VPC vs traditional infrastructure?
+VPC Pros:
+Increased security
+Scalability
+Flexibility
+Cost-effectiveness
+
+Traditional infrastructure Pros :
+Full control
+Security
+Flexibility
 
 
 
