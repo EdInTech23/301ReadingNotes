@@ -10,6 +10,9 @@ Software Restriction: GPOs can restrict the execution of unauthorized software, 
 Firewall Settings: Administrators can configure firewall rules through GPOs to enhance network security.
 #### How can the acronym “LSDOU” help you figure out which policies are in effect?
 Local Policies: Applied to the local computer.
+
 Site Policies: Applied to all objects in a specific Active Directory site.
+
 Domain Policies: Applied to all objects in a domain.
+
 Organizational Unit (OU) Policies: Applied to objects within a specific OU.
